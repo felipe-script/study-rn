@@ -6,7 +6,11 @@ import ListScreen from "./src/screens/ListScreen"
 import ImageScreen from "./src/screens/ImageScreen"
 import CounterScreen from "./src/screens/CounterSreen"
 import ColorScreen from "./src/screens/ColorScreen"
+<<<<<<< HEAD
 import SquareScreen from "./src/screens/SquareScreen"
+=======
+import SquareScreen from './src/screens/SquareScreen'
+>>>>>>> a4544d47bd137cd807d04ab4864bcc84bae6adf2
 
 const navigator = createStackNavigator(
   {
